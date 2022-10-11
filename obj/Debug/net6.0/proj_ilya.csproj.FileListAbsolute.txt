@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/bin/Debug/net6.0/proj_ilya
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/bin/Debug/net6.0/proj_ilya.deps.json
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/bin/Debug/net6.0/proj_ilya.runtimeconfig.json
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/bin/Debug/net6.0/proj_ilya.dll
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/bin/Debug/net6.0/proj_ilya.pdb
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.AssemblyInfo.cs
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.dll
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/refint/proj_ilya.dll
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.pdb
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/proj_ilya.genruntimeconfig.cache
+/Users/pipiskop/Projects/proj_ilya/proj_ilya/obj/Debug/net6.0/ref/proj_ilya.dll
